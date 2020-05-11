@@ -1,3 +1,6 @@
+#【Ubuntu16.04】ROS:Kinetic LSD-SLAM
+https://qiita.com/yuna-s/items/e4383766b160e5f7f743
+
 # LSD-SLAM: Large-Scale Direct Monocular SLAM
 
 LSD-SLAM is a novel approach to real-time monocular SLAM. It is fully direct (i.e. does not use keypoints / features) and creates large-scale, 
